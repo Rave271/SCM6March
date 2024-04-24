@@ -1,5 +1,5 @@
 #include<stdio.h>
-main(){
+int main(){
     /*Practising Basic Stuff*/
     printf("H");
     printf("E");
@@ -8,5 +8,5 @@ main(){
     printf("O");
     printf("Dosto!");
     printf("!!!!");
-    //return 0;
+    return 0;
 }
