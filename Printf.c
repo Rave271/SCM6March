@@ -6,6 +6,7 @@ main(){
     printf("L");
     printf("L");
     printf("O");
+    printf("Dosto!");
     printf("!!!!");
     //return 0;
 }
